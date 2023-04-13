@@ -1,1 +1,1 @@
-each script is doing the following 
+task 0. Where I am?  
